@@ -1,0 +1,241 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dD:/IntelFPGA
+vd_flip_flop
+Z0 !s110 1539606199
+!i10b 1
+!s100 GR9fzN]alKa=i]J=[DFXz1
+I6L[=PFW_kF`CVA9kmA67c1
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dD:/IntelFPGA/projects/lab5ms
+w1537439242
+8D:/IntelFPGA/projects/lab5ms/d_flip_flop.v
+FD:/IntelFPGA/projects/lab5ms/d_flip_flop.v
+L0 1
+Z3 OV;L;10.5b;63
+r1
+!s85 0
+31
+!s108 1539606199.000000
+!s107 D:/IntelFPGA/projects/lab5ms/d_flip_flop.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/IntelFPGA/projects/lab5ms/d_flip_flop.v|
+!i113 1
+Z4 o-work work
+Z5 tCvgOpt 0
+vd_latch
+Z6 !s110 1539606198
+!i10b 1
+!s100 b[HI=5]fTB@g;o1ihDjid0
+IlbT_Idn_RGI>];<;=BjlA3
+R1
+R2
+w1537436671
+8D:/IntelFPGA/projects/lab5ms/d_latch.v
+FD:/IntelFPGA/projects/lab5ms/d_latch.v
+L0 1
+R3
+r1
+!s85 0
+31
+Z7 !s108 1539606198.000000
+!s107 D:/IntelFPGA/projects/lab5ms/d_latch.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/IntelFPGA/projects/lab5ms/d_latch.v|
+!i113 1
+R4
+R5
+vdemux_1_4_case
+R6
+!i10b 1
+!s100 Y=<hMNI^gJFMhgMhzXXPJ3
+IN:=LVonL;4G=eeX`KdkE>0
+R1
+R2
+w1537436585
+8D:/IntelFPGA/projects/lab5ms/demux_1_4_case.v
+FD:/IntelFPGA/projects/lab5ms/demux_1_4_case.v
+L0 1
+R3
+r1
+!s85 0
+31
+R7
+!s107 D:/IntelFPGA/projects/lab5ms/demux_1_4_case.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/IntelFPGA/projects/lab5ms/demux_1_4_case.v|
+!i113 1
+R4
+R5
+vmux_2_1
+!s110 1539606197
+!i10b 1
+!s100 jIR;cEQ6X8lSAHc<J8:Hj2
+I4c2>jLQ81O7RjGkkfgM_j0
+R1
+R2
+w1537442832
+8D:/IntelFPGA/projects/lab5ms/mux_2_1.v
+FD:/IntelFPGA/projects/lab5ms/mux_2_1.v
+L0 1
+R3
+r1
+!s85 0
+31
+Z8 !s108 1539606197.000000
+!s107 D:/IntelFPGA/projects/lab5ms/mux_2_1.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/IntelFPGA/projects/lab5ms/mux_2_1.v|
+!i113 1
+R4
+R5
+vmux_2_1_case
+R6
+!i10b 1
+!s100 W[8OgjRU[Q=][m7930hYk2
+IW^6V:9bhd^8YUKa6`Z`RD0
+R1
+R2
+w1537434845
+8D:/IntelFPGA/projects/lab5ms/mux_2_1_case.v
+FD:/IntelFPGA/projects/lab5ms/mux_2_1_case.v
+L0 1
+R3
+r1
+!s85 0
+31
+R7
+!s107 D:/IntelFPGA/projects/lab5ms/mux_2_1_case.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/IntelFPGA/projects/lab5ms/mux_2_1_case.v|
+!i113 1
+R4
+R5
+vmux_2_1_if
+R6
+!i10b 1
+!s100 [P^_z:G@^AXH>bHdMh_>[3
+INRSmJz?DeF4^<mN^M5f4m0
+R1
+R2
+w1537434828
+8D:/IntelFPGA/projects/lab5ms/mux_2_1_if.v
+FD:/IntelFPGA/projects/lab5ms/mux_2_1_if.v
+L0 1
+R3
+r1
+!s85 0
+31
+R7
+!s107 D:/IntelFPGA/projects/lab5ms/mux_2_1_if.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/IntelFPGA/projects/lab5ms/mux_2_1_if.v|
+!i113 1
+R4
+R5
+vmux_2_1_ternary
+R6
+!i10b 1
+!s100 mfmNV8n_m>kLBD<];FU903
+IG2]O2CFcWUC0G3D0A>Rj`2
+R1
+R2
+w1537434474
+8D:/IntelFPGA/projects/lab5ms/mux_2_1_ternary.v
+FD:/IntelFPGA/projects/lab5ms/mux_2_1_ternary.v
+L0 1
+R3
+r1
+!s85 0
+31
+R8
+!s107 D:/IntelFPGA/projects/lab5ms/mux_2_1_ternary.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/IntelFPGA/projects/lab5ms/mux_2_1_ternary.v|
+!i113 1
+R4
+R5
+vmux_4_1_case
+R6
+!i10b 1
+!s100 nD@^?>_PP96=OiPZH]m_a1
+I=MDEAN?B1K[DnhF0K9<0Z2
+R1
+R2
+w1537435910
+8D:/IntelFPGA/projects/lab5ms/mux_4_1_case.v
+FD:/IntelFPGA/projects/lab5ms/mux_4_1_case.v
+L0 1
+R3
+r1
+!s85 0
+31
+R7
+!s107 D:/IntelFPGA/projects/lab5ms/mux_4_1_case.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/IntelFPGA/projects/lab5ms/mux_4_1_case.v|
+!i113 1
+R4
+R5
+vsr_latch
+R6
+!i10b 1
+!s100 Ik]OPgn0:BI8d^EYheF>M1
+I7ka_k0OMJRmbTmEJA;1f@0
+R1
+R2
+w1537436640
+8D:/IntelFPGA/projects/lab5ms/sr_latch.v
+FD:/IntelFPGA/projects/lab5ms/sr_latch.v
+L0 1
+R3
+r1
+!s85 0
+31
+R7
+!s107 D:/IntelFPGA/projects/lab5ms/sr_latch.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/IntelFPGA/projects/lab5ms/sr_latch.v|
+!i113 1
+R4
+R5
+vtestbench
+R6
+!i10b 1
+!s100 ACF<;CGmzgWjD^om?TfAh1
+IO=h;9<=O<Wa7X?UR::Q3C0
+R1
+R2
+w1537447678
+8D:/IntelFPGA/projects/lab5ms/testbench.v
+FD:/IntelFPGA/projects/lab5ms/testbench.v
+L0 1
+R3
+r1
+!s85 0
+31
+R7
+!s107 D:/IntelFPGA/projects/lab5ms/testbench.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/IntelFPGA/projects/lab5ms/testbench.v|
+!i113 1
+R4
+R5
+vtestbenchsrlatch
+R0
+!i10b 1
+!s100 [PJYJ4@UHR>1E:SV?;3T60
+IDUTeYk>]Z1JiO_a8Kc11H1
+R1
+R2
+w1537436785
+8D:/IntelFPGA/projects/lab5ms/testbenchsrlatch.v
+FD:/IntelFPGA/projects/lab5ms/testbenchsrlatch.v
+L0 1
+R3
+r1
+!s85 0
+31
+R7
+!s107 D:/IntelFPGA/projects/lab5ms/testbenchsrlatch.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/IntelFPGA/projects/lab5ms/testbenchsrlatch.v|
+!i113 1
+R4
+R5

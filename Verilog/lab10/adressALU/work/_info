@@ -1,0 +1,157 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/vlado/Desktop/Innopolis/Job/Computer Architecture/ModelSim/Lab10ex1
+vadd
+Z0 !s110 1540300431
+!i10b 1
+!s100 g`f@?PHDT6K@h[m9N8]n62
+IY2VQRdUL3oTGe`eXba:TV3
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dC:/Users/vlado/Desktop/Innopolis/Job/Computer Architecture/ModelSim/Lab10ex2
+w1540293038
+8C:/Users/vlado/Desktop/Innopolis/Job/Computer Architecture/ModelSim/Lab10ex2/add.v
+FC:/Users/vlado/Desktop/Innopolis/Job/Computer Architecture/ModelSim/Lab10ex2/add.v
+L0 1
+Z3 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z4 !s108 1540300431.000000
+!s107 C:/Users/vlado/Desktop/Innopolis/Job/Computer Architecture/ModelSim/Lab10ex2/add.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/vlado/Desktop/Innopolis/Job/Computer Architecture/ModelSim/Lab10ex2/add.v|
+!i113 1
+Z5 o-work work
+Z6 tCvgOpt 0
+valu
+R0
+!i10b 1
+!s100 QXiG94E[>W6HUN_WXFW5G1
+I=[8?=W1H=]V97;gT>Ja2:1
+R1
+R2
+w1540298136
+8C:/Users/vlado/Desktop/Innopolis/Job/Computer Architecture/ModelSim/Lab10ex2/alu.v
+FC:/Users/vlado/Desktop/Innopolis/Job/Computer Architecture/ModelSim/Lab10ex2/alu.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/vlado/Desktop/Innopolis/Job/Computer Architecture/ModelSim/Lab10ex2/alu.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/vlado/Desktop/Innopolis/Job/Computer Architecture/ModelSim/Lab10ex2/alu.v|
+!i113 1
+R5
+R6
+valu_testbench
+R0
+!i10b 1
+!s100 l4FjVYJ]6i;?5^]@S9Mio0
+I9YJ2:D:>J24KC0PKY6R`11
+R1
+R2
+w1540298128
+8C:/Users/vlado/Desktop/Innopolis/Job/Computer Architecture/ModelSim/Lab10ex2/alu_testbench.v
+FC:/Users/vlado/Desktop/Innopolis/Job/Computer Architecture/ModelSim/Lab10ex2/alu_testbench.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/vlado/Desktop/Innopolis/Job/Computer Architecture/ModelSim/Lab10ex2/alu_testbench.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/vlado/Desktop/Innopolis/Job/Computer Architecture/ModelSim/Lab10ex2/alu_testbench.v|
+!i113 1
+R5
+R6
+vglob
+R0
+!i10b 1
+!s100 b0ABYh7ijRe29?XHF8:fE2
+IcbE33kkoiJe;bK<QNB9F?1
+R1
+R2
+w1540298313
+8C:/Users/vlado/Desktop/Innopolis/Job/Computer Architecture/ModelSim/Lab10ex2/glob.v
+FC:/Users/vlado/Desktop/Innopolis/Job/Computer Architecture/ModelSim/Lab10ex2/glob.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/vlado/Desktop/Innopolis/Job/Computer Architecture/ModelSim/Lab10ex2/glob.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/vlado/Desktop/Innopolis/Job/Computer Architecture/ModelSim/Lab10ex2/glob.v|
+!i113 1
+R5
+R6
+vmux
+R0
+!i10b 1
+!s100 [RQ`<W_WdWIS;VNI4;8oK1
+IaU_gUb0l@jI2Y1CcXPC9N1
+R1
+R2
+w1540298152
+8C:/Users/vlado/Desktop/Innopolis/Job/Computer Architecture/ModelSim/Lab10ex2/mux.v
+FC:/Users/vlado/Desktop/Innopolis/Job/Computer Architecture/ModelSim/Lab10ex2/mux.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/vlado/Desktop/Innopolis/Job/Computer Architecture/ModelSim/Lab10ex2/mux.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/vlado/Desktop/Innopolis/Job/Computer Architecture/ModelSim/Lab10ex2/mux.v|
+!i113 1
+R5
+R6
+vsrl
+R0
+!i10b 1
+!s100 fQm^b`PLViE9oF4L8NMD90
+Ik=j?79>l0_0K8CiCWSI8T2
+R1
+R2
+w1540295859
+8C:/Users/vlado/Desktop/Innopolis/Job/Computer Architecture/ModelSim/Lab10ex2/srl.v
+FC:/Users/vlado/Desktop/Innopolis/Job/Computer Architecture/ModelSim/Lab10ex2/srl.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/vlado/Desktop/Innopolis/Job/Computer Architecture/ModelSim/Lab10ex2/srl.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/vlado/Desktop/Innopolis/Job/Computer Architecture/ModelSim/Lab10ex2/srl.v|
+!i113 1
+R5
+R6
+vsub
+!s110 1540300430
+!i10b 1
+!s100 VEXK1@AYh]2FLVIjdg>_o2
+IGm@]c3kC7Cd>jceZbGYeG1
+R1
+R2
+w1540293044
+8C:/Users/vlado/Desktop/Innopolis/Job/Computer Architecture/ModelSim/Lab10ex2/sub.v
+FC:/Users/vlado/Desktop/Innopolis/Job/Computer Architecture/ModelSim/Lab10ex2/sub.v
+L0 1
+R3
+r1
+!s85 0
+31
+!s108 1540300430.000000
+!s107 C:/Users/vlado/Desktop/Innopolis/Job/Computer Architecture/ModelSim/Lab10ex2/sub.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/vlado/Desktop/Innopolis/Job/Computer Architecture/ModelSim/Lab10ex2/sub.v|
+!i113 1
+R5
+R6

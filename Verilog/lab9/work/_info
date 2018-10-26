@@ -1,0 +1,220 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dD:/IntelFPGA
+vadder
+!s110 1539674071
+!i10b 1
+!s100 GneeGZS]@M6Na?0=mb>Je3
+IRAGn6]S1e3>iW4LdPX2=B0
+Z0 VDg1SIo80bB@j0V0VzS_@n1
+Z1 dE:/Innopolis/Job/Computer Architecture/ModelSim/Lab9
+w1539673540
+8E:/Innopolis/Job/Computer Architecture/ModelSim/Lab9/full_adder.v
+FE:/Innopolis/Job/Computer Architecture/ModelSim/Lab9/full_adder.v
+L0 1
+Z2 OV;L;10.5b;63
+r1
+!s85 0
+31
+!s108 1539674071.000000
+!s107 E:/Innopolis/Job/Computer Architecture/ModelSim/Lab9/full_adder.v|
+!s90 -reportprogress|300|-work|work|-stats=none|E:/Innopolis/Job/Computer Architecture/ModelSim/Lab9/full_adder.v|
+!i113 1
+Z3 o-work work
+Z4 tCvgOpt 0
+vadder4
+Z5 !s110 1539717200
+!i10b 1
+!s100 [KP;`7jkfP0f6=ze[?4nS0
+IOdhY:QCM]gXM_:CJ?ULN:2
+R0
+R1
+w1539699026
+8E:/Innopolis/Job/Computer Architecture/ModelSim/Lab9/adder4.v
+FE:/Innopolis/Job/Computer Architecture/ModelSim/Lab9/adder4.v
+L0 1
+R2
+r1
+!s85 0
+31
+Z6 !s108 1539717200.000000
+!s107 E:/Innopolis/Job/Computer Architecture/ModelSim/Lab9/adder4.v|
+!s90 -reportprogress|300|-work|work|-stats=none|E:/Innopolis/Job/Computer Architecture/ModelSim/Lab9/adder4.v|
+!i113 1
+R3
+R4
+vadder4_testbench
+R5
+!i10b 1
+!s100 =S<jKKi[=jK=:[MY6^lmS2
+I@1SHn]IINoiIk<3FQQciT3
+R0
+R1
+w1539699255
+8E:/Innopolis/Job/Computer Architecture/ModelSim/Lab9/adder4_testbench.v
+FE:/Innopolis/Job/Computer Architecture/ModelSim/Lab9/adder4_testbench.v
+L0 1
+R2
+r1
+!s85 0
+31
+R6
+!s107 E:/Innopolis/Job/Computer Architecture/ModelSim/Lab9/adder4_testbench.v|
+!s90 -reportprogress|300|-work|work|-stats=none|E:/Innopolis/Job/Computer Architecture/ModelSim/Lab9/adder4_testbench.v|
+!i113 1
+R3
+R4
+vfull_adder
+Z7 !s110 1540195431
+!i10b 1
+!s100 DJ^^X4h8]=bhdQ`2h00k92
+IG<4VY]?<jNQ5EnRO6cGM81
+R0
+Z8 dC:/Users/vlado/Desktop/Innopolis/Job/Computer Architecture/ModelSim/Lab9
+w1539717195
+8C:/Users/vlado/Desktop/Innopolis/Job/Computer Architecture/ModelSim/Lab9/full_adder.v
+FC:/Users/vlado/Desktop/Innopolis/Job/Computer Architecture/ModelSim/Lab9/full_adder.v
+L0 1
+R2
+r1
+!s85 0
+31
+Z9 !s108 1540195431.000000
+!s107 C:/Users/vlado/Desktop/Innopolis/Job/Computer Architecture/ModelSim/Lab9/full_adder.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/vlado/Desktop/Innopolis/Job/Computer Architecture/ModelSim/Lab9/full_adder.v|
+!i113 1
+R3
+R4
+vfull_adder_testbench
+R7
+!i10b 1
+!s100 0;8HVe<NbEH1Sci;g2c:z2
+Io`9jCnYcL?3<mznc<I3]c2
+R0
+R8
+w1539717261
+8C:/Users/vlado/Desktop/Innopolis/Job/Computer Architecture/ModelSim/Lab9/full_adder_testbench.v
+FC:/Users/vlado/Desktop/Innopolis/Job/Computer Architecture/ModelSim/Lab9/full_adder_testbench.v
+L0 1
+R2
+r1
+!s85 0
+31
+R9
+!s107 C:/Users/vlado/Desktop/Innopolis/Job/Computer Architecture/ModelSim/Lab9/full_adder_testbench.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/vlado/Desktop/Innopolis/Job/Computer Architecture/ModelSim/Lab9/full_adder_testbench.v|
+!i113 1
+R3
+R4
+vhalf_adder
+R7
+!i10b 1
+!s100 QlE=;]<RBBQ4JbnH71Q>:0
+IZZe8BQFmWDcURzS0baj@20
+R0
+R8
+w1539717154
+8C:/Users/vlado/Desktop/Innopolis/Job/Computer Architecture/ModelSim/Lab9/half_adder.v
+FC:/Users/vlado/Desktop/Innopolis/Job/Computer Architecture/ModelSim/Lab9/half_adder.v
+L0 1
+R2
+r1
+!s85 0
+31
+R9
+!s107 C:/Users/vlado/Desktop/Innopolis/Job/Computer Architecture/ModelSim/Lab9/half_adder.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/vlado/Desktop/Innopolis/Job/Computer Architecture/ModelSim/Lab9/half_adder.v|
+!i113 1
+R3
+R4
+vhalf_adder_testbench
+R7
+!i10b 1
+!s100 oIO^<R^5:0bNTJ9k0E1aZ0
+InFocCmm>Ok?kY1UR?9[WG3
+R0
+R8
+w1539717273
+8C:/Users/vlado/Desktop/Innopolis/Job/Computer Architecture/ModelSim/Lab9/half_adder_testbench.v
+FC:/Users/vlado/Desktop/Innopolis/Job/Computer Architecture/ModelSim/Lab9/half_adder_testbench.v
+L0 1
+R2
+r1
+!s85 0
+31
+R9
+!s107 C:/Users/vlado/Desktop/Innopolis/Job/Computer Architecture/ModelSim/Lab9/half_adder_testbench.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/vlado/Desktop/Innopolis/Job/Computer Architecture/ModelSim/Lab9/half_adder_testbench.v|
+!i113 1
+R3
+R4
+vripple_carry
+R7
+!i10b 1
+!s100 LN8In8JKXZG;`>9@6LB^I1
+IiUgGV@YUjKi]OFb32R5@50
+R0
+R8
+w1540195427
+8C:/Users/vlado/Desktop/Innopolis/Job/Computer Architecture/ModelSim/Lab9/ripple_carry.v
+FC:/Users/vlado/Desktop/Innopolis/Job/Computer Architecture/ModelSim/Lab9/ripple_carry.v
+L0 1
+R2
+r1
+!s85 0
+31
+R9
+!s107 C:/Users/vlado/Desktop/Innopolis/Job/Computer Architecture/ModelSim/Lab9/ripple_carry.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/vlado/Desktop/Innopolis/Job/Computer Architecture/ModelSim/Lab9/ripple_carry.v|
+!i113 1
+R3
+R4
+vripple_carry_testbench
+R7
+!i10b 1
+!s100 ]1AdeTHHgD^jmYRYHnbVE3
+IF8zkGB5ZFXN<5bedZd]Fj0
+R0
+R8
+w1539857633
+8C:/Users/vlado/Desktop/Innopolis/Job/Computer Architecture/ModelSim/Lab9/ripple_carry_testbench.v
+FC:/Users/vlado/Desktop/Innopolis/Job/Computer Architecture/ModelSim/Lab9/ripple_carry_testbench.v
+L0 1
+R2
+r1
+!s85 0
+31
+R9
+!s107 C:/Users/vlado/Desktop/Innopolis/Job/Computer Architecture/ModelSim/Lab9/ripple_carry_testbench.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/vlado/Desktop/Innopolis/Job/Computer Architecture/ModelSim/Lab9/ripple_carry_testbench.v|
+!i113 1
+R3
+R4
+vtestbench
+!s110 1539674027
+!i10b 1
+!s100 eBc0fa[bRloO8cN98RV0:1
+IISl2mn8CXH[F@kb4@jV`83
+R0
+R1
+w1539674025
+8E:/Innopolis/Job/Computer Architecture/ModelSim/Lab9/full_adder_testbench.v
+FE:/Innopolis/Job/Computer Architecture/ModelSim/Lab9/full_adder_testbench.v
+L0 1
+R2
+r1
+!s85 0
+31
+!s108 1539674027.000000
+!s107 E:/Innopolis/Job/Computer Architecture/ModelSim/Lab9/full_adder_testbench.v|
+!s90 -reportprogress|300|-work|work|-stats=none|E:/Innopolis/Job/Computer Architecture/ModelSim/Lab9/full_adder_testbench.v|
+!i113 1
+R3
+R4
